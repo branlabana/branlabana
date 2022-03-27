@@ -81,7 +81,7 @@
   
 ### Operative Systems  
 <div align="center">  
-<img style="margin: 10px"  <a href="https://www.freeiconspng.com/img/5821">Icon Windows Pictures</a>alt="PHP" height="50" /> 
+<img style="margin: 10px" href="https://www.freeiconspng.com/img/5821" alt="PHP" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
