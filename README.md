@@ -81,10 +81,14 @@
   
 ### Operative Systems  
 <div align="center">  
-<img style="margin: 10px" href="https://www.freeiconspng.com/img/5821" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/windows-icon-png-25.png" alt="Icon Windows Pictures" height="50" /> 
-<img style="margin: 10px" href="https://www.freeiconspng.com/img/28163" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/linux-icon-0.png" alt="Icon Linux Download" height="50" />
-<img style="margin: 10px" href="https://www.freeiconspng.com/img/4076" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/app-ios-png-4.png" alt="appple ios png" height="50" />  
-<img style="margin: 10px" href="https://www.freeiconspng.com/img/3083" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/android-robot-icon-22.png" alt="android" height="50" />  
+<img style="margin: 10px" src="https://www.freeiconspng.com/uploads/windows-icon-png-25.png" alt="Icon Windows Pictures" height="50" /> 
+  
+<img style="margin: 10px" src="https://www.freeiconspng.com/uploads/linux-icon-0.png" alt="Icon Linux Download" height="50" />
+  
+<img style="margin: 10px" src="https://www.freeiconspng.com/uploads/app-ios-png-4.png" alt="appple ios png" height="50" />  
+  
+<img style="margin: 10px" src="https://www.freeiconspng.com/uploads/android-robot-icon-22.png" alt="android" height="50" />  
+  
 </div>
 
 </td><td valign="top" width="33%">
