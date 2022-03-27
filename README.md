@@ -82,15 +82,9 @@
 ### Operative Systems  
 <div align="center">  
 <img style="margin: 10px" href="https://www.freeiconspng.com/img/5821" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/windows-icon-png-25.png" alt="Icon Windows Pictures" height="50" /> 
-  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" href="https://www.freeiconspng.com/img/28163" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/linux-icon-0.png" alt="Icon Linux Download" height="50" />
+<img style="margin: 10px" href="https://www.freeiconspng.com/img/4076" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/app-ios-png-4.png" alt="appple ios png" height="50" />  
+<img style="margin: 10px" href="https://www.freeiconspng.com/img/3083" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/android-robot-icon-22.png" alt="android" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
