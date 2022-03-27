@@ -78,9 +78,9 @@
 
 </td><td valign="top" width="33%">
   
-  
+  <div align="center">  
 ### Operative Systems  
-<div align="center">  
+
 <img style="margin: 10px" src="https://www.freeiconspng.com/uploads/windows-icon-png-25.png" alt="Icon Windows Pictures" height="50" /> 
   
 <img style="margin: 10px" src="https://www.freeiconspng.com/uploads/linux-icon-0.png" alt="Icon Linux Download" height="50" />
